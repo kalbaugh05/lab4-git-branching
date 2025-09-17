@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`:_ Hero pulls the sword from stone and defeats a dragon
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
@@ -23,4 +23,4 @@ You will:
 - [ ] At least 3 branches (`main`, `hero-path`, `villain-path`)
 - [ ] Each branch has its own unique story version
 - [ ] At least 2 commits per branch
-- [ ] Changes are pushed to GitHub from EC2 or local
+- [ ] Changes are pushed to GitHub from EC2 and local
